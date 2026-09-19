@@ -1,0 +1,619 @@
+﻿LIFE / ORIGIN-OF-LIFE CONTRACT AND ADAPTER COMPANION
+STATUS
+Public human-readable contract / adapter companion.
+Machine status: confirmed clean twice against the unchanged compatible Structural Flow Universal Kernel, including the C4-completed Lean append.
+PUBLIC PACKAGE RELATION
+This companion is intended to travel with:
+1. the compatible Life from Chemistry anchor-artifact release line;
+2. SF_Life_Origin_of_Life_Contract_and_Adapter_v0_5+;
+3. the compatible unchanged Structural Flow Universal Kernel release line.
+The internal research spine, drafting spine, and derivation history are not public dependencies.
+ROLE
+This file exposes the human-readable contract surface encoded by the Life / Origin-of-Life Lean companion. Its job is auditability and interoperability. It states the exact evidence states, burdens, result classes, current literature mappings, prospective experiment branches, translation burdens, and machine firewalls that govern the public package.
+This file does not replace the anchor artifact. The anchor explains the scientific problem and experiment in field-facing language. This companion records the exact admission and translation grammar.
+This file also does not manufacture empirical results. A machine-clean contract can specify what evidence would license a result without asserting that the evidence has been obtained.
+1. THREE LAYERS THAT MUST REMAIN SEPARATE
+The public architecture contains three distinct scientific jobs.
+OCTT asks what organizational continuity relation is supported through load-bearing material turnover.
+AMC asks whether the declared system carries an autonomous-maintenance organization at the declared system, environment, level, scope, horizon, boundary, process, and control surface.
+The Life adapter asks whether an empirically admitted AMC object lawfully realizes the scoped Structural Flow Life object.
+The permitted direction is:
+OCTT evidence
+→ AMC adjudication
+→ separate Life translation.
+No reverse shortcut is installed.
+OCTT does not define AMC.
+AMC does not define Life.
+Contract closure does not supply empirical entry.
+2. COMMON EVIDENCE-STATE GRAMMAR
+AMC and OCTT use three evidence states:
+DISCHARGED
+The declared burden has adequate supporting evidence under the current contract.
+VIOLATED
+The declared burden has adequate evidence showing that the burden fails.
+OPEN
+The burden has not been adequately discharged or violated.
+OPEN does not mean FALSE.
+OPEN does not mean FAILED.
+A missing or inadequate assay remains OPEN unless the contract separately warrants a violation.
+3. SCOPED STRUCTURAL FLOW LIFE OBJECT
+The machine seat is StructuralFlow.LifeChemistry.
+Candidate:
+LifeCandidate.life.
+Job:
+LifeJob.maintenanceBearingContinuation.
+Weakest installed shape:
+LifeShape.selfDefendingBoundaryRegime.
+Selected capacity:
+LifeCapacity.viableContinuation.
+Declared cases:
+LifeCase.holding.
+LifeCase.failure.
+Level and scope are generic parameters. A Life world cannot be instantiated without an explicitly selected level and scope. This is the machine form of:
+No level, no threshold claim.
+The +3 object answers are machine-checked as:
+JOB
+maintenance-bearing continuation.
+SHAPE
+self-defending boundary regime.
+CAPACITY LOST IF THE SHAPE FAILS
+viable continuation.
+The checkpoint also contains a deliberately weak false-substitute witness:
+ChemicalActivity is available in the selected failure case while the selected Life capacity is absent.
+This encodes only:
+Activity is not Life.
+It does not assert that every Life failure retains chemical activity.
+The machine checkpoint marks the current scoped candidate as survived and closed under the imported scoped human-semantic authority. Those pins are not derived from the +3 theorem itself.
+The Life checkpoint does not derive AMC, OCTT, reproduction, evolution, empirical Life, or strict identity.
+Primary machine checkpoint:
+StructuralFlow.LifeChemistry.life_object_machine_checkpoint.
+4. AUTONOMOUS MAINTENANCE CORE — AMC
+The machine seat is StructuralFlow.OriginOfLifeAMC.
+4.1 Declared empirical surface
+Every AMC world pins:
+System.
+Environment.
+Level.
+Scope.
+Horizon.
+Boundary.
+Process set.
+Control set.
+These pins are part of the admission surface rather than background metadata.
+4.2 AMC burdens
+AMC-0 — PINS
+Machine name:
+Burden.pins.
+The declared system, environment, level, scope, horizon, boundary, process set, and control set are adequately fixed.
+AMC-1 — CONTROL EFFICACY
+Machine name:
+Burden.controlEfficacy.
+The declared controls materially affect the processes on which the candidate maintenance organization depends.
+AMC-2 — ENDOGENEITY
+Machine name:
+Burden.endogeneity.
+The candidate organization materially contributes to producing, regenerating, or maintaining the constitutive controls rather than receiving the organizational job as an external substitution.
+AMC-3 — MUTUAL INTEGRATION
+Machine name:
+Burden.mutualIntegration.
+The candidate control relations are integrated strongly enough to form the declared maintenance organization rather than a one-way chain ending in an external organizer.
+The burden does not encode a universal requirement for multiple differentiated controls.
+AMC-4 — REGENERATION
+Machine name:
+Burden.regeneration.
+The organization regenerates relevant load-bearing material or control capacity against loss, dilution, degradation, leakage, consumption, displacement, dissipation, or an equivalent failure pressure.
+AMC-5 — CONTINUED ORGANIZATIONAL COMPETENCE
+Machine name:
+Burden.continuedOrganizationalCompetence.
+Across the declared horizon, the candidate remains capable of maintaining or regenerating the load-bearing relations required by the declared organization without external replacement of its constitutive organizational functions.
+AMC-6 — ASSAY ADEQUACY
+Machine name:
+Burden.assayAdequacy.
+The measurement and intervention family is adequate to discriminate the organizational alternatives relevant to the claim.
+4.3 Substantive AMC burdens
+The machine marks AMC-1 through AMC-5 as substantive burdens.
+AMC-0 PINS and AMC-6 ASSAY ADEQUACY are admission guards.
+This distinction matters for negative standing.
+4.4 AMC headline dispositions
+AMC POSITIVE
+Machine definition:
+AMCPositive.
+Condition:
+Every AMC burden is DISCHARGED.
+AMC NEGATIVE
+Machine definition:
+AMCNegative.
+Condition:
+PINS is DISCHARGED;
+ASSAY ADEQUACY is DISCHARGED;
+and at least one substantive burden AMC-1 through AMC-5 is VIOLATED.
+Therefore:
+pinning failure cannot be converted into evidence that autonomous maintenance is absent;
+assay inadequacy cannot be converted into evidence that autonomous maintenance is absent.
+AMC INDETERMINATE
+Machine definition:
+AMCIndeterminate.
+Condition:
+the world is neither AMC POSITIVE nor AMC NEGATIVE.
+Primary machine checkpoint:
+StructuralFlow.OriginOfLifeAMC.amc_domain_contract_machine_checkpoint.
+5. ORGANIZATIONAL CONTINUITY THROUGH TURNOVER TEST — OCTT
+The machine seat is StructuralFlow.OriginOfLifeOCTT.
+OCTT uses the AMC evidence-state grammar but defines its own burdens and continuity classes.
+5.1 OCTT burdens
+SOURCE / AGE RESOLUTION
+Machine name:
+Burden.sourceAgeResolution.
+Old versus newly generated load-bearing material is adequately discriminated.
+CARRIER / ANCESTRY RESOLUTION
+Machine name:
+Burden.carrierAncestryResolution.
+The experiment can distinguish the relevant carrier and ancestry relations.
+PASSIVE-SEED EXCLUSION
+Machine name:
+Burden.passiveSeedExclusion.
+Retained initial material is no longer a sufficient explanation of the claimed continuing maintenance function.
+MAINTENANCE FUNCTION
+Machine name:
+Burden.maintenanceFunction.
+The regenerated material is shown to participate in the relevant maintenance function rather than merely appearing or accumulating.
+ASSAY ADEQUACY
+Machine name:
+Burden.assayAdequacy.
+The source, carrier, turnover, and functional assays are adequate for the continuity discrimination being claimed.
+5.2 OCTT continuity classes
+C1 — CONTINUOUS BOUNDED CARRY
+Machine name:
+ContinuityClass.continuousBoundedCarry.
+Positive proposition:
+CarrierContinuityPositive.
+Requirement:
+all OCTT burdens DISCHARGED;
+continuity class C1.
+C2 — DAUGHTER-LINEAGE CARRY
+Machine name:
+ContinuityClass.daughterLineageCarry.
+Positive proposition:
+LineageContinuityPositive.
+Requirement:
+all OCTT burdens DISCHARGED;
+continuity class C2.
+C3 — DE NOVO NUCLEATION / NEW-CARRIER PRODUCTION
+Machine name:
+ContinuityClass.deNovoNucleation.
+Positive proposition:
+NewCarrierProduction.
+Requirement:
+all OCTT burdens DISCHARGED;
+continuity class C3.
+C4 — DISSOLUTION / RECONSTITUTION
+Machine name:
+ContinuityClass.dissolutionReconstitution.
+Positive proposition:
+Reconstitution.
+Requirement:
+all OCTT burdens DISCHARGED;
+continuity class C4.
+C5 — POPULATION PROPAGATION
+Machine name:
+ContinuityClass.populationPropagation.
+Positive proposition:
+PopulationPropagation.
+Requirement:
+all OCTT burdens DISCHARGED;
+continuity class C5.
+INDETERMINATE
+Machine name:
+ContinuityClass.indeterminate.
+Machine proposition:
+OCTTIndeterminate.
+OCTT is indeterminate when at least one OCTT burden is not DISCHARGED or when the continuity class itself is indeterminate.
+OCTT does not define a single generic NEGATIVE class because C3, C4, and C5 are meaningful classified outcomes rather than failures of the assay.
+Primary machine checkpoint:
+StructuralFlow.OriginOfLifeOCTT.octt_contract_machine_checkpoint.
+6. OCTT / AMC FIREWALL
+OCTT answers:
+What continuity relation is supported through turnover?
+AMC answers:
+Does the declared continuing organization carry the constitutive autonomous-maintenance relations?
+A C1 or C2 result does not supply AMC admission.
+A C3, C4, or C5 result is not silently upgraded into carrier continuity.
+OCTT contract closure does not supply the empirical AMC entry burden.
+Machine firewall:
+StructuralFlow.LifeOriginPublicKernelAdapter.octt_contract_checkpoint_does_not_supply_amc_entry.
+7. CURRENT PUBLISHED HARDY 2015 MACHINE SEAT
+The machine seat is StructuralFlow.LifeOriginPublishedInstances.
+The literature justification for these state assignments is carried by the anchor artifact. The machine encodes the adjudicated states; it does not independently prove the chemistry.
+7.1 Hardy AMC state
+PINS:
+DISCHARGED.
+CONTROL EFFICACY:
+DISCHARGED.
+ENDOGENEITY:
+DISCHARGED.
+MUTUAL INTEGRATION:
+DISCHARGED.
+REGENERATION:
+DISCHARGED.
+CONTINUED ORGANIZATIONAL COMPETENCE:
+OPEN.
+ASSAY ADEQUACY:
+OPEN.
+Machine world:
+hardyAMCWorld.
+Headline disposition:
+AMC INDETERMINATE.
+Machine theorem:
+hardy_amc_indeterminate.
+The open burdens prevent positive admission.
+No substantive burden is encoded as violated, so the world is not AMC NEGATIVE.
+7.2 Hardy OCTT state
+SOURCE / AGE RESOLUTION:
+OPEN.
+CARRIER / ANCESTRY RESOLUTION:
+OPEN.
+PASSIVE-SEED EXCLUSION:
+OPEN.
+MAINTENANCE FUNCTION:
+DISCHARGED.
+ASSAY ADEQUACY:
+OPEN.
+Continuity:
+INDETERMINATE.
+Machine world:
+hardyOCTTWorld.
+Headline disposition:
+OCTT INDETERMINATE.
+Machine theorem:
+hardy_octt_indeterminate.
+8. CURRENT PUBLISHED MATSUO 2019 MACHINE SEAT
+8.1 Matsuo AMC state
+PINS:
+DISCHARGED.
+CONTROL EFFICACY:
+DISCHARGED.
+ENDOGENEITY:
+DISCHARGED.
+MUTUAL INTEGRATION:
+OPEN.
+REGENERATION:
+DISCHARGED.
+CONTINUED ORGANIZATIONAL COMPETENCE:
+OPEN.
+ASSAY ADEQUACY:
+OPEN.
+Machine world:
+matsuoAMCWorld.
+Headline disposition:
+AMC INDETERMINATE.
+Machine theorem:
+matsuo_amc_indeterminate.
+The machine deliberately leaves MUTUAL INTEGRATION OPEN. It does not assume in advance that the simpler candidate architecture is either sufficient or insufficient.
+8.2 Matsuo OCTT state
+SOURCE / AGE RESOLUTION:
+OPEN.
+CARRIER / ANCESTRY RESOLUTION:
+OPEN.
+PASSIVE-SEED EXCLUSION:
+OPEN.
+MAINTENANCE FUNCTION:
+DISCHARGED.
+ASSAY ADEQUACY:
+OPEN.
+Continuity:
+INDETERMINATE.
+Machine world:
+matsuoOCTTWorld.
+Headline disposition:
+OCTT INDETERMINATE.
+Machine theorem:
+matsuo_octt_indeterminate.
+9. PROSPECTIVE HARDY RESULT CONTRACT
+The machine seat is StructuralFlow.LifeOriginProspectiveHardy, with C4 completion in StructuralFlow.LifeOriginC4Completion.
+These worlds are prospective result branches.
+They are not claims that the experiment has occurred.
+9.1 C1 — continuous bounded carry
+If the Hardy experiment discharges all OCTT burdens and earns C1:
+CarrierContinuityPositive.
+If, independently, every AMC burden is also discharged:
+AMC POSITIVE.
+If, independently, every required public translation burden is discharged:
+STRUCTURAL CONFORMS.
+The machine does not infer the AMC or translation result from C1 alone.
+9.2 C2 — daughter-lineage carry
+If all OCTT burdens discharge and the continuity result is C2:
+LineageContinuityPositive.
+C2 can reach the same conditional AMC-positive and STRUCTURAL CONFORMS endpoint only when the independent AMC and translation burdens are also discharged.
+No parent = daughter strict-identity claim is installed.
+9.3 C3 — de novo new-carrier production
+If all OCTT burdens discharge and the result is C3:
+NewCarrierProduction.
+At the bounded-carrier AMC scope used by the prospective Hardy seat:
+continued organizational competence remains OPEN;
+AMC remains INDETERMINATE;
+the current public translation remains NOT YET ADJUDICABLE.
+9.4 C4 — dissolution / reconstitution
+If all OCTT burdens discharge and the result is C4:
+Reconstitution.
+At the bounded-carrier AMC scope used here:
+continued organizational competence remains OPEN;
+AMC remains INDETERMINATE;
+the current public translation remains NOT YET ADJUDICABLE.
+Machine seat:
+StructuralFlow.LifeOriginC4Completion.hardyC4World.
+9.5 C5 — population propagation
+If all OCTT burdens discharge and the result is C5:
+PopulationPropagation.
+At the bounded-carrier AMC scope:
+continued organizational competence remains OPEN;
+AMC remains INDETERMINATE;
+the current public translation remains NOT YET ADJUDICABLE.
+9.6 Insufficient evidence
+If one or more OCTT burdens remain non-discharged or continuity remains indeterminate:
+OCTT INDETERMINATE.
+10. PROSPECTIVE MATSUO ADVERSARIAL CONTRACT
+The machine seat is StructuralFlow.LifeOriginProspectiveMatsuo, with C4 completion in StructuralFlow.LifeOriginC4Completion.
+The Matsuo seat is intentionally adversarial to a differentiated-control necessity hypothesis.
+10.1 C1 / C2 with MUTUAL INTEGRATION still OPEN
+A positive carrier or lineage continuity result does not close AMC-3.
+If MUTUAL INTEGRATION remains OPEN:
+AMC remains INDETERMINATE.
+Machine worlds:
+matsuoC1World.
+matsuoC2World.
+matsuoIntegrationOpenAMCWorld.
+10.2 Strong simpler-architecture branch
+The machine also constructs a prospective world in which the Matsuo candidate discharges every AMC burden, including MUTUAL INTEGRATION.
+Machine world:
+matsuoOneControlSuccessAMCWorld.
+In that prospective world:
+AMC POSITIVE is lawful.
+If every public translation burden is independently discharged:
+STRUCTURAL CONFORMS is lawful.
+The machine therefore does not preinstall:
+differentiated controls are necessary for AMC.
+The separate research hypothesis:
+DifferentiatedControlsNecessaryHypothesis
+is incompatible with an empirically earned strong Matsuo branch.
+This is encoded by:
+strong_matsuo_branch_incompatible_with_differentiated_necessity.
+10.3 C3 — de novo new-carrier production
+C3 remains:
+NewCarrierProduction
+plus bounded-carrier AMC INDETERMINATE
+plus current public translation NOT YET ADJUDICABLE.
+10.4 C4 — dissolution / reconstitution
+C4 remains:
+Reconstitution
+plus bounded-carrier AMC INDETERMINATE
+plus current public translation NOT YET ADJUDICABLE.
+Machine seat:
+StructuralFlow.LifeOriginC4Completion.matsuoC4World.
+10.5 C5 — population propagation
+C5 remains:
+PopulationPropagation
+plus bounded-carrier AMC INDETERMINATE
+plus current public translation NOT YET ADJUDICABLE.
+10.6 Insufficient evidence
+Insufficient source, ancestry, passive-seed, maintenance-function, or assay evidence returns:
+OCTT INDETERMINATE.
+11. PUBLIC AMC → LIFE TRANSLATION ADAPTER
+The machine seat is StructuralFlow.LifeOriginPublicKernelAdapter.
+The adapter uses the Universal Translation Contract supplied by the compatible Universal Kernel.
+Universal dispositions:
+DISCHARGED.
+VIOLATED.
+OPEN.
+11.1 Universal core burdens and current states
+SURFACE WARRANT
+Machine name:
+CoreBurden.surfaceWarrant.
+Current state:
+DISCHARGED.
+SOURCE / CARRIER PIN
+Machine name:
+CoreBurden.sourceCarrierPin.
+Current state:
+OPEN.
+OBJECT PIN
+Machine name:
+CoreBurden.objectPin.
+Current state:
+DISCHARGED.
+LEVEL PIN
+Machine name:
+CoreBurden.levelPin.
+Current state:
+OPEN.
+SCOPE PIN
+Machine name:
+CoreBurden.scopePin.
+Current state:
+OPEN.
+STRUCTURAL PRESERVATION
+Machine name:
+CoreBurden.structuralPreservation.
+Current state:
+OPEN.
+NON-CIRCULARITY
+Machine name:
+CoreBurden.nonCircularity.
+Current state:
+DISCHARGED.
+IDENTITY FIREWALL
+Machine name:
+CoreBurden.identityFirewall.
+Current state:
+DISCHARGED.
+11.2 Life-specific object burdens and current states
+JOB LOCATED
+Machine name:
+ObjectBurden.jobLocated.
+Current state:
+DISCHARGED.
+SHAPE LOCATED
+Machine name:
+ObjectBurden.shapeLocated.
+Current state:
+DISCHARGED.
+LOSS LOCATED
+Machine name:
+ObjectBurden.lossLocated.
+Current state:
+DISCHARGED.
+ACTIVITY FALSE SUBSTITUTE CLEARED
+Machine name:
+ObjectBurden.activityFalseSubstituteCleared.
+Current state:
+DISCHARGED.
+SAME-LEVEL NON-ABSORPTION
+Machine name:
+ObjectBurden.sameLevelNonAbsorption.
+Current state:
+DISCHARGED.
+BOUNDED-CARRIER REALIZATION
+Machine name:
+ObjectBurden.boundedCarrierRealization.
+Current state:
+OPEN.
+INTERNALLY CARRIED MAINTENANCE
+Machine name:
+ObjectBurden.internallyCarriedMaintenance.
+Current state:
+OPEN.
+CONTINUATION PRESERVATION
+Machine name:
+ObjectBurden.continuationPreservation.
+Current state:
+OPEN.
+FAILURE DISCRIMINATION
+Machine name:
+ObjectBurden.failureDiscrimination.
+Current state:
+OPEN.
+11.3 Domain-entry burden
+AMC EMPIRICAL ADMISSION
+Machine name:
+DomainBurden.amcEmpiricalAdmission.
+Role:
+domain-entry burden.
+Current state:
+OPEN.
+It is not registered as a downstream domain burden.
+12. UNIVERSAL TRANSLATION DISPOSITIONS
+NO LAWFUL TRANSLATION
+Machine proposition:
+UniversalTranslationContract.NoLawfulTranslation.
+Meaning:
+at least one required core, object, or domain-entry burden has a known VIOLATED certificate.
+NOT YET ADJUDICABLE
+Machine proposition:
+UniversalTranslationContract.NotYetAdjudicable.
+Meaning:
+no required burden has a known VIOLATED certificate;
+and at least one required burden has a known OPEN certificate.
+STRUCTURAL CONFORMS
+Machine proposition:
+UniversalTranslationContract.StructuralConforms.
+Meaning:
+every required core burden is DISCHARGED;
+every required object burden is DISCHARGED;
+every required domain-entry burden is DISCHARGED.
+The present public Life / Origin-of-Life adapter is:
+NOT YET ADJUDICABLE.
+Reason:
+the packet contains no known failure, while empirical AMC entry and other realization / translation burdens remain OPEN.
+Primary theorem:
+life_origin_public_kernel_not_yet_adjudicable.
+13. EXPLICIT MACHINE FIREWALLS
+13.1 Contract closure is not empirical AMC satisfaction
+The AMC contract can be machine-closed while the real domain-entry burden remains OPEN.
+Machine theorem:
+amc_contract_checkpoint_does_not_supply_empirical_entry.
+13.2 OCTT closure is not AMC entry
+A synthetic positive OCTT carrier-continuity demonstration does not supply the empirical AMC admission burden.
+Machine theorem:
+octt_contract_checkpoint_does_not_supply_amc_entry.
+13.3 Turnover is not strict identity
+The public adapter keeps the identity firewall DISCHARGED because it does not infer strict identity from material turnover, continuous tracking, or parent-to-daughter lineage.
+Machine theorem:
+identity_firewall_currently_discharged.
+13.4 Prospective success does not mutate current evidence
+Conditional future StructuralConforms worlds may be encoded while the current real public adapter remains NOT YET ADJUDICABLE.
+The prospective world is a result grammar, not an empirical assertion.
+14. MACHINE CHECKPOINTS
+The Lean contract/adapter contains checkpoint theorems for:
+the scoped Life object;
+the AMC disposition grammar;
+the OCTT continuity grammar;
+the combined public adapter;
+the current Hardy and Matsuo literature mappings;
+the prospective Hardy experiment;
+the prospective Matsuo adversarial experiment;
+the whole-package closure posture;
+and the C4 dissolution/reconstitution completion.
+The C4-completed Lean append v0.5 was run twice against the unchanged Universal Kernel with no Lean messages.
+The Universal Kernel remained unchanged.
+No Universal Kernel repair was required by the C4 completion.
+15. INTEROPERABILITY AND EXTENSION RULES
+A future candidate system may reuse the AMC contract by supplying:
+a declared pin surface;
+an evidence state for each AMC burden;
+warrants for those states.
+A future turnover experiment may reuse OCTT by supplying:
+an evidence state for each OCTT burden;
+one continuity classification.
+A future domain-to-Life translation must not bypass the public translation adapter.
+A later compatible scientific or editorial iteration does not require this companion to chase exact-version echoes. Public dependencies should be expressed using the minimum-compatible “+” convention where a dependency must be named.
+Machine dependency:
+SF_Life_Origin_of_Life_Contract_and_Adapter_v0_5+.
+Anchor dependency:
+compatible Life from Chemistry anchor-artifact release line.
+Universal dependency:
+compatible Structural Flow Universal Kernel release line.
+16. CLAIM BOUNDARY
+This companion states:
+the contract grammar;
+the current encoded evidence states;
+the lawful prospective branches;
+the translation interface;
+the machine firewalls;
+and the relationship between the public human contract and the Lean implementation.
+It does not claim:
+that Hardy is alive;
+that Matsuo is alive;
+that AMC is identical to Life;
+that the proposed experiment has been performed;
+that C1 or C2 proves strict identity;
+that C3, C4, or C5 is a failed experiment;
+that multiple differentiated controls are universally necessary;
+that machine cleanliness establishes empirical truth;
+or that the historical path of terrestrial abiogenesis is reconstructed by these model systems.
+17. CURRENT PUBLIC DISPOSITION
+LIFE OBJECT
+Machine-confirmed at the scoped formal level.
+AMC CONTRACT
+Machine-closed as an adjudication procedure.
+OCTT CONTRACT
+Machine-closed as an adjudication procedure.
+HARDY CURRENT AMC
+INDETERMINATE.
+HARDY CURRENT OCTT
+INDETERMINATE.
+MATSUO CURRENT AMC
+INDETERMINATE.
+MATSUO CURRENT OCTT
+INDETERMINATE.
+CURRENT AMC → LIFE TRANSLATION
+NOT YET ADJUDICABLE.
+PROSPECTIVE RESULT GRAMMAR
+C1 / C2 strong branches may reach AMC POSITIVE and STRUCTURAL CONFORMS only through independent discharge of all required burdens.
+C3 remains new-carrier production.
+C4 remains dissolution / reconstitution.
+C5 remains population propagation.
+Insufficient evidence remains indeterminate.
+UNIVERSAL KERNEL
+Unchanged.
+EMPIRICAL ANSWER
+Open.
+END OF COMPANION
